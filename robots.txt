@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /landing/
+Disallow: /landing-page/
+Disallow: /marketing-agent/
+Disallow: /invite/
+Disallow: /in/
+Disallow: /explore/assets/
+Sitemap: https://boomconsole.com/sitemap.xml
